@@ -2,16 +2,6 @@ BlogVersion2
 
 一个基于Springboot+Vue2.x+Jwt+ElementUI的多用户前后端分离博客系统
 
-Version3正在搭建中
-
-> 部分截图
-
-![image-20220328193524131](https://s2.loli.net/2022/03/28/1QsoRku2CpEc9fJ.png)
-
-![image-20220328193457267](https://s2.loli.net/2022/03/28/zR8nwpaDdSIL5kh.png)
-
-![image-20220328193103498](https://s2.loli.net/2022/03/28/n1dCxei7obSsfgc.png)
-
 > 技术选择
 
 + 从零开始搭建一个博客项目骨架，最好选择合适，熟悉的技术，并且在未来易拓展，适合微服务化体系等。所以一般以Springboot作为我们的框架基础
